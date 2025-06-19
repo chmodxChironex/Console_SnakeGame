@@ -1,0 +1,35 @@
+# Compiled object files and binaries
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# Backup and swap files
+*~
+*.swp
+*.bak
+
+# IDE/editor metadata
+.idea/
+.vscode/
+*.iml
+
+# Temporary files
+*.log
+*.tmp
+
+# Game-generated or user-specific output files
+highscore.txt
+scores.txt
+field_size.txt
+obstacles.txt
+
+# CMake and Makefile build artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build directory
+build/
